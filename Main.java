@@ -1,3 +1,7 @@
+/**
+@author Molly Campbell, Dom Dalessandro, Andrew Kaiser, Tom Sanker
+@version 12-6-2020
+*/
 import java.awt.*;
 import java.awt.event.*;
 import java.util.ArrayList;
